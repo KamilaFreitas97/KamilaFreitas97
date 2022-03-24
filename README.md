@@ -3,7 +3,7 @@
 
 
 
-### Opa e ai, me chamo Kamila 👋
+### Opa e ai, eu me chamo Kamila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 - Estudando Flutter 🌱 
@@ -36,3 +36,10 @@
    </div>
  
 
+## Vamos codar 😁
+ <div style="display: inline_block">
+ <div style="display: inline_block">
+ <img  src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" style='height: 40%; width: 40%; object-fit: contain'/>
+
+ </div/>
+ 
