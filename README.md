@@ -3,7 +3,7 @@
 
 
 
-### E ai, me chamo Kamila 👋
+### Opa e ai, me chamo Kamila 👋
 
 
 - Estudando Flutter 🌱 
