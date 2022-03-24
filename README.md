@@ -24,7 +24,6 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
   <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Vue" height="30" width="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
   <img align="center" alt="Android" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-os.png"/>
 </div>
   
