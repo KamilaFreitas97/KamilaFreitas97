@@ -39,7 +39,7 @@
 ## Vamos codar 😁
  <div style="display: inline_block">
  <div style="display: inline_block">
- <img  src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif" style='height: 40%; width: 40%; object-fit: contain'/>
+ <img  src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" style='height: 40%; width: 40%; object-fit: contain'/>
 
  </div/>
  
