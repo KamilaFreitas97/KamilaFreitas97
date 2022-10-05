@@ -5,8 +5,8 @@
 
 ### Opa e ai, eu me chamo Kamila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-- Estudando Flutter 🌱 
+ 
+- Estudando automação de testes com Cypress 🌱
 - Gosto de jogar, ouvir musica e tocar violão 🎮 🎧 🎵 🎸
 
 
