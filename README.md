@@ -25,7 +25,7 @@
   <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Android" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-os.png"/>
   <img align="center" alt="Flutter" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
- <img align="center" alt="Cypress" height="30" width="40" src="https://guisalmeida.com/static/d625d911d0062643ecc86729b8ecf061/0d09f/cypress-cover.webp"/>
+ <img align="center" alt="Cypress" height="30" width="40" src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidIq_kF0rb%2Fidv3zwmSiY.jpeg&w=1920&q=75"/>
  
 
 </div>
